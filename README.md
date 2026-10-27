@@ -56,3 +56,7 @@ Program masih dalam tahap perancangan pada Pertemuan 14. Petunjuk menjalankan pr
 
 ### Status Proyek
 Tahap: Perancangan proyek (Pertemuan 14).
+
+### Perkembangan Proyek
+
+Pada Pertemuan 14, saya telah menyusun rancangan proyek, membuat struktur folder, menyiapkan data contoh, dan menyusun rancangan pengujian. Pada tahap berikutnya, proyek akan dilanjutkan dengan pembuatan program Python dan pengujian fungsinya.
